@@ -186,7 +186,6 @@ namespace Interview_WebAPI.Controllers
                         input_nascimento.Value = usuario.nascimento.Date;
 
                         input_command.ExecuteNonQuery();
-                        return Ok(serializer.Serialize(resultado));
                     }
 
                     command = new SqlCommand(check_curso_str.ToString(), connection);
