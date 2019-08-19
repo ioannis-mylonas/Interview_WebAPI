@@ -7,5 +7,5 @@ Usa a biblioteca libphonenumber-csharp para validação de telefone.
 cliente.detalhes - Contém os detalhes cadastrais do cliente registrado.  
 cliente.cursos - Contém id to cliente e id do curso ao qual ele se cadastrou. Permite cadastro a mais de um curso.  
   
-curso.detalhes - Contém detalhes gerais sobre o curso.
-curso.cadastro - Contém detalhes específicos sobre o cadastro no curso, como url do vídeo de introdução, entre outros.
+curso.detalhes - Contém detalhes gerais sobre o curso.  
+curso.cadastro - Contém detalhes específicos sobre o cadastro no curso, como url do vídeo de introdução, entre outros.  
