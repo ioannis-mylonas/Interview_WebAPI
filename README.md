@@ -1,5 +1,5 @@
 # Interview WebAPI  
-WebAPI usando ASP Net para desafio (emprego). Usa C# para se conectar a um banco de dados SQL Server padrão.  
+WebAPI usando ASP Net para desafio (emprego). Usa C# para se conectar a um banco de dados SQL Server padrão. Criado no Visual Studio Community Edition 2019.  
   
 # Bibliotecas  
   
